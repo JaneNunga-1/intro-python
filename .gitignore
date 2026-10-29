@@ -1,6 +1,10 @@
 # u tell tis file there sare somethings u need to ignore
 .venv/
 .env/
-#git add .gitignore
- #git commit -m "Fix venv typo in gitignore"
- #git push origin master
+.idea/
+# adding a new project/respository to github commands
+#git init
+#git  add.
+#git commit -m "DFirst Commit"
+#git remote set-url origin https://github.com/JaneNunga-1/intro-python.git
+#git push master origin
