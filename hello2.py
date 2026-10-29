@@ -1,0 +1,5 @@
+print("Jane")
+print(43373)
+print(10/3)
+print(10//3)
+print(10//7)
