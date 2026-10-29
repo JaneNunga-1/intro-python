@@ -1,6 +1,6 @@
 # u tell tis file there sare somethings u need to ignore
-venv/
-.idea/
+.venv/
+.env/
 #git add .gitignore
  #git commit -m "Fix venv typo in gitignore"
  #git push origin master
