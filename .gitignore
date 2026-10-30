@@ -2,6 +2,9 @@
 .venv/
 .env/
 .idea/
+# we want to ignore any file that has webm
+*.webm
+*.txt
 # adding a new project/respository to github commands
 #git init
 #git  add.
