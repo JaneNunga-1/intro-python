@@ -20,3 +20,4 @@ c1 = Circle(5)
 c1.show_details()
 c2 = Circle(10)
 c2.show_details()
+# we will learn inheritance in python kesho
