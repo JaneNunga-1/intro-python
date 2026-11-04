@@ -10,7 +10,7 @@ greet()  # use ur function by calling it
 
 # the function greet doesnt have data or parameters
 def take(name):
-    print(f"Take this{name}")
+    print(f"Take this {name}")
 
 
 def volume_cylinder(height, radius):

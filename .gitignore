@@ -5,6 +5,7 @@
 # we want to ignore any file that has webm
 *.webm
 *.txt
+!requirements.txt
 # adding a new project/respository to github commands
 #git init
 #git  add.

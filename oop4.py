@@ -19,4 +19,7 @@ class Contractor(Employee):
 p1=Permanent("Jane","nungalegal@gmail.com""","IT","1000002","1000000","10000")
 c1=Contractor("Jane","nuhyss@hhjshsn","fINACE","89099009","10009999",)
 p1.show_details()
-c1.show_details()
+c1.sho
+
+
+w_details()
